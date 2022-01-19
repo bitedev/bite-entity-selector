@@ -1,0 +1,9 @@
+name: bite-entity-selector
+version: 1.0
+author: Youriel
+main: bite.entityselector.Main
+description: This Minecraft allows players to select living entities and maintain its focus
+
+commands:
+  selector:
+    description: command to access the selector API
